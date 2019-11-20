@@ -16,11 +16,11 @@ public class HelloWorldWhatever {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    System.out.println("Hello world!");
-    for (int i = 1; i <= 10; i++)
-        {
-         System.out.println(i);
-        }
+    System.out.println("Hecked");
+//    for (int i = 1; i <= 10; i++)
+//        {
+//         System.out.println(i);
+//        }
     }
     
 }
